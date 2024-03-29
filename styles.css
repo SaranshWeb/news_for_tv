@@ -1,15 +1,18 @@
 .container {
-    max-width: 800px;
+    width: 800px;
+    height: 1080px;
     margin: 0 auto;
     padding: 20px;
     text-align: center;
-    text-decoration: none;
+    background-size: cover;
+    transition: background-image 1s ease-in-out;
 }
 
 .news-item {
     margin-bottom: 20px;
 }
 
+/* Remove underline decoration from links */
 a {
     text-decoration: none;
 }
