@@ -26,11 +26,11 @@ h2{
 p{
     font-size: 2rem;
     text-align: justify;
-    margin-right: 10px;
 }
 
 img{
     float: right;
     width: 50%;
     height: 50%;
+    margin-left: 10px;
 }
