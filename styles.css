@@ -1,5 +1,5 @@
 .container {
-    width: 980px;
+    width: 600px;
     /* height: 490px; */
     margin: auto;
     padding: 20px;
@@ -18,7 +18,7 @@ a {
 }
 
 h2 {
-    padding-top: 50px;
+    padding-top: 20px;
     /*font-size: 2.2rem; /* Adjusted font size to fit smaller screen */
 }
 
@@ -29,7 +29,7 @@ p {
 
 img {
     float: right;
-    width: 50%; /* Adjusted image size to fit smaller screen */
-    height: 50%; /* Adjusted image size to fit smaller screen */
+    width: 35%; /* Adjusted image size to fit smaller screen */
+    height: 35%; /* Adjusted image size to fit smaller screen */
     margin-left: 10px;
 }
