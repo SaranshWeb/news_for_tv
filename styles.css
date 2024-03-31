@@ -1,6 +1,6 @@
 .container {
-/*     width: 50%; */
-    height: 1080px;
+    width: 50%;
+    height: auto;
     margin: 0 auto;
     padding: 20px;
     text-align: left;
