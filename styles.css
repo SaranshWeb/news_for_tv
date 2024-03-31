@@ -1,6 +1,6 @@
 .container {
     width: 490px;
-    height: 490px;
+    /* height: 490px; */
     margin: auto;
     padding: 20px;
     text-align: left;
@@ -19,11 +19,11 @@ a {
 
 h2 {
     padding-top: 50px;
-    font-size: 2.2rem; /* Adjusted font size to fit smaller screen */
+    /*font-size: 2.2rem; /* Adjusted font size to fit smaller screen */
 }
 
 p {
-    font-size: 1.8rem; /* Adjusted font size to fit smaller screen */
+    /*font-size: 1.8rem; /* Adjusted font size to fit smaller screen */
     text-align: justify;
 }
 
